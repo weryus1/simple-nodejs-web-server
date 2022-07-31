@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    align-content: center;
+    background-color: #202830;
+    color: #ffffff;
+    display: grid;
+    height: 100%;
+    justify-content: space-around;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    font-family: monospace;
+    font-weight: lighter;
+    font-size: 10em;
+}
+
+h2 a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: monospace;
+    font-weight: lighter;
+}

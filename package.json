@@ -1,0 +1,15 @@
+{
+  "name": "simple-web-server",
+  "version": "1.2",
+  "description": "A simple NodeJS web server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Skitch",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "mime-db": "^1.52.0",
+    "mime-lookup": "^0.0.2"
+  }
+}
